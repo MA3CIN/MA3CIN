@@ -3,7 +3,7 @@
 <img align="center" src="https://github.com/MA3CIN/MA3CIN/blob/main/HeyThere.png"/>
 I'm in my second year of studies towards a bachelor's degree in Telecommunications at the Warsaw University of Technology.
 <br/>
-
+<br/>
 - Trying to learn everything Kubernetes related!
 - Passionate about Video Editing, Programming, Basketball and Software development!
 - Working on contributing here more often
@@ -14,7 +14,7 @@ I'm in my second year of studies towards a bachelor's degree in Telecommunicatio
 <br/>
 
 <a href="https://github.com/MA3CIN/MA3CIN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MA3CIN&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="MA3CIN's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MA3CIN&show_icons=true&line_height=27&count_private=true&" alt="MA3CIN's GitHub Stats" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MA3CIN.MA3CIN)
