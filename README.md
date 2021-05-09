@@ -1,6 +1,6 @@
 ### Welcome to my github profile!
 
-<img align="center" src="https://github.com/MA3CIN/MA3CIN/HeyThere.png"/>
+<img align="center" src="https://github.com/MA3CIN/MA3CIN/blob/main/HeyThere.png"/>
 I'm in my second year of studies towards a bachelor's degree in Telecommunications at the Warsaw University of Technology.
 
 
