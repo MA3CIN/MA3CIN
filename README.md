@@ -1,14 +1,12 @@
 ### Welcome to my github profile!
 
 <img align="center" src="https://github.com/MA3CIN/MA3CIN/blob/main/HeyThere.png"/>
-I'm in my third year of studies towards a bachelor's degree in Telecommunications at the Warsaw University of Technology.
+Visit my linkedIn here: https://www.linkedin.com/in/marcin-zi%C3%B3%C5%82kowski-6b161a209/ <br/>
+I'm a Software Engineer, currently in my fourth year of studies towards a bachelor's degree in Telecommunications at the Warsaw University of Technology.
 <br/>
 <br/>
 
-- Trying to learn everything Kubernetes related!
-- Passionate about Video Editing, Programming, Basketball and Software engineering!
-- Working on contributing here more often
-
+- Passionate about Software Engineering, Programming, and Basketball!
 
 <br/> 
 
