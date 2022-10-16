@@ -4,6 +4,7 @@
 Visit my linkedIn here: https://www.linkedin.com/in/marcin-zi%C3%B3%C5%82kowski-6b161a209/ <br/>
 I'm a Software Engineer, currently in my fourth year of studies towards a bachelor's degree in Telecommunications at the Warsaw University of Technology.
 <br/>
+The banner is outdated - nowadays i'm mostly active on LinkedIn and commit mainly to BitBucket!
 <br/>
 
 - Passionate about Software Engineering, Programming, and Basketball!
