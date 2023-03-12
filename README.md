@@ -2,12 +2,12 @@
 
 <img align="center" src="https://github.com/MA3CIN/MA3CIN/blob/main/HeyThere.png"/>
 Visit my linkedIn here: https://www.linkedin.com/in/marcin-zi%C3%B3%C5%82kowski-6b161a209/ <br/>
-I'm a Software Engineer, currently in my fourth year of studies towards a bachelor's degree in Telecommunications at the Warsaw University of Technology.
+I'm a Software Engineer, currently in my second year of studies towards a master's degree in Cybersecurity & ICT at the Warsaw University of Technology.
 <br/>
-The banner is outdated - nowadays i'm mostly active on LinkedIn and commit mainly to BitBucket!
+The banner is outdated - nowadays i'm mostly active on LinkedIn and commit mainly to internal org git repos!
 <br/>
 
-- Passionate about Software Engineering, Programming, and Basketball!
+- Passionate about Software Engineering, Cloud, DevOps, and Basketball!
 
 <br/> 
 
