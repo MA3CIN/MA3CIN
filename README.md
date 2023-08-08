@@ -22,4 +22,3 @@ https://hub.docker.com/u/marcinziolkowski
  <br/> 
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MA3CIN.MA3CIN)
-https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
