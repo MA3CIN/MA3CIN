@@ -7,10 +7,10 @@ The banner is outdated - nowadays i'm mostly active on LinkedIn and commit mainl
 <br/>
 Passionate about Software Engineering, Cloud, DevOps, and Basketball!
 <br/> 
-I contribute to these open-source projects:
-- [Nephio](https://github.com/nephio-project/) 
-- [OpenTelemetry](https://github.com/open-telemetry) 
-- [Chaos Mesh](https://github.com/chaos-mesh) 
+I contribute to these open-source projects: <br/> 
+- [Nephio](https://github.com/nephio-project/) <br/> 
+- [OpenTelemetry](https://github.com/open-telemetry)  <br/>  
+- [Chaos Mesh](https://github.com/chaos-mesh)  <br/> 
 
 
 **Connect with me here:** <br/> <br/>
