@@ -7,10 +7,13 @@ The banner is outdated - nowadays i'm mostly active on LinkedIn and commit mainl
 <br/>
 Passionate about Software Engineering, Cloud, DevOps, and Basketball!
 <br/> 
-I contribute to these open-source projects: <br/> 
-- [Nephio](https://github.com/nephio-project/) <br/> 
-- [OpenTelemetry](https://github.com/open-telemetry)  <br/>  
-- [Chaos Mesh](https://github.com/chaos-mesh)  <br/> 
+I contribute to these open-source projects: 
+
+[Nephio](https://github.com/nephio-project)
+[OpenTelemetry](https://github.com/open-telemetry) 
+[Chaos-Mesh](https://github.com/chaos-mesh) 
+
+
 
 **Connect with me here:** <br/> <br/>
 <a href="https://www.linkedin.com/in/marcin-zi%C3%B3%C5%82kowski-6b161a209/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Marcin_Ziółkowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcin-zi%C3%B3%C5%82kowski-6b161a209/"></a>
