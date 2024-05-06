@@ -1,5 +1,4 @@
-### Welcome to my github profile!
-
+### SWE, SRE & R&D
 <img align="center" src="https://github.com/MA3CIN/MA3CIN/blob/main/HeyThere.png"/>
 I'm a Software Engineer, currently in my second year of studies towards a master's degree in Cybersecurity & ICT at the Warsaw University of Technology.
 <br/>
