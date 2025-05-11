@@ -1,11 +1,8 @@
-### SWE, SRE & R&D
+## SWE, SRE & R&D
 <img align="center" src="https://github.com/MA3CIN/MA3CIN/blob/main/HeyThere.png"/>
-I'm an experienced Software Engineer, currently pursuing a PhD in ICT at the Warsaw University of Technology.
-<br/>
-The banner is outdated - nowadays i'm mostly active on LinkedIn and commit mainly to internal org git repos
-<br/>
-Passionate about Software Engineering, Cloud, DevOps, and Basketball!
-<br/> 
+Software Engineer driving innovation in 5G/6G technologies through expertise in R&D, SRE, and DevOps.Currently pursuing an extramural doctorate focused on enhancing the sustainability, security, and reliability of 5G/6G Core Networks. Contact me using my LinkedIn
+
+
 
 
 **Connect with me here:** <br/> <br/>
@@ -13,8 +10,3 @@ Passionate about Software Engineering, Cloud, DevOps, and Basketball!
 <br/> 
 https://hub.docker.com/u/marcinziolkowski
 <br/> 
-
-<a href="https://github.com/MA3CIN/MA3CIN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MA3CIN&show_icons=true&line_height=27&count_private=true&" alt="MA3CIN's GitHub Stats" />
-</a>
- <br/> 
