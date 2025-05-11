@@ -1,6 +1,6 @@
 ## SWE, SRE & R&D
 <img align="center" src="https://github.com/MA3CIN/MA3CIN/blob/main/HeyThere.png"/>
-Software Engineer driving innovation in 5G/6G technologies through expertise in R&D, SRE, and DevOps.Currently pursuing an extramural doctorate focused on enhancing the sustainability, security, and reliability of 5G/6G Core Networks. Contact me using my LinkedIn
+Software Engineer driving innovation in 5G/6G technologies through expertise in R&D, SRE, and DevOps. Currently pursuing an extramural doctorate focused on enhancing the sustainability, security, and reliability of 5G/6G Core Networks. Contact me using my LinkedIn below.
 
 
 
