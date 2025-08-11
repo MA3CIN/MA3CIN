@@ -10,3 +10,4 @@ Software Engineer driving innovation in 5G/6G technologies through expertise in 
 <br/> 
 https://hub.docker.com/u/marcinziolkowski
 <br/> 
+https://orcid.org/0009-0004-2329-1514
